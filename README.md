@@ -8,7 +8,7 @@ Comme pour les étapes précédentes, teste toutes les expressions régulières 
 
 - Trouve l'expression régulière qui cherche la seule occurrence du deuxième prénom de Néo (soit le A. de "Thomas A. Anderson).
 Hint : cherche vite Néo avant qu'il ne s'échappe...
-# /A\./g
+# /A\./
 
 - Trouve l'expression régulière qui cherche la date contenue dans le document.
 Hint: il ne s'agit pas juste de chercher le texte 31/03/1999, mais de chercher deux chiffres et un slash, suivi de deux chiffres et d'un slash, suivi de quatre chiffres.
